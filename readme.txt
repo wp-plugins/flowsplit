@@ -1,4 +1,4 @@
-=== Hypernews ===
+=== FlowSplit ===
 Contributors: flowcom_andreas
 Tags: split, testing, split testing
 Requires at least: 3.2
